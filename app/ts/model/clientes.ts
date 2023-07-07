@@ -5,7 +5,7 @@ class Clientes {
         this._clientes = [];
         
         const c1 = new Conta('1', 100);
-        const cliente1 = new Cliente('Gabriel', '123321', c1);
+        const cliente1 = new Cliente('Kilson Alves', '123321', c1);
         this._clientes.push(cliente1);
     }
 
